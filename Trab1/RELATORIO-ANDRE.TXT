@@ -1,0 +1,26 @@
+Relatório T2
+
+INF1301
+
+Disciplina: Programação Modular
+
+Professor: Alessandro Garcia
+
+Nome: André Mello Alves
+
+Matrícula: 1511032
+
+Contato: andre.g.melloalves@gmail.com
+
+Período: 2017.1
+
+
+Data	Horas trabalhadas	Tipo tarefa	Descrição da tarefa realizada
+
+05/04	      2h		  Estudar	A partir das regras do jogo, especificação dos requisitos funcionais e não-funcionais do programa.
+
+10/04	      2h		  Estudar	Com os requisitos já especificados, desenvolvimento da arquitetura dos módulos.
+
+13/04	      2h		  Estudar	Estudo do funcionamento do arcabouço.
+
+13/04	      2h		  Estudar	
