@@ -8,4 +8,4 @@ Data	Horas	Tipo	  	Descrição
 				Discutimos a divisão das tarefas. 
 				Aprofundei o estudo do arcabouço.
 						
-15/04	8	Estudo		Estudo detalhado dos arquivos da pasta "Lista" do arcabouço
+15/04	8	Estudo		Estudei detalhadamente os arquivos da pasta "Lista" do arcabouço
