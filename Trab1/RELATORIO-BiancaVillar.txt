@@ -1,8 +1,8 @@
 Data	Horas	Tipo	  	Descrição
 
-05/04	2	Estudo		Definimos dos requisitos
+05/04	2	Estudo		Definimos os requisitos
 
-08/04	0.5	Estudo		Instalei do Arcabouço
+08/04	0.5	Estudo		Instalei o Arcabouço
 
 12/04	6.5	Estudo		Primeira reunião do grupo. 
 				Discutimos a divisão das tarefas. 
