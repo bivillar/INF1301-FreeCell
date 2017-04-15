@@ -1,9 +1,11 @@
 Data	Horas	Tipo	  	Descrição
 
-05/04	2	Estudo		Definição dos requisitos
+05/04	2	Estudo		Definimos dos requisitos
 
-08/04	1	Estudo		Instalação do Arcabouço
+08/04	0.5	Estudo		Instalei do Arcabouço
 
-12/04	4	Estudo		Primeira reunião do grupo. Leitura sobre o Arcabouço e testes
+12/04	6.5	Estudo		Primeira reunião do grupo. 
+				Discutimos a divisão das tarefas. 
+				Aprofundei o estudo do arcabouço.
 						
-15/04	8	Estudo		Estudo detalhado dos arquivos da pasta lista do arcabouço
+15/04	8	Estudo		Estudo detalhado dos arquivos da pasta "Lista" do arcabouço
