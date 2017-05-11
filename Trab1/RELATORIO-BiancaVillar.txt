@@ -1,11 +1,25 @@
-Data	Horas	Tipo	  	Descrição
+Data	Horas	       Tipo	               Descrição
 
-05/04	2	Estudo		Definimos os requisitos
+05/04	2	      Estudo	               Definimos os requisitos
 
-08/04	0.5	Estudo		Instalei o Arcabouço
+08/04	0.5	      Estudo	               Instalei o Arcabouço
 
-12/04	6.5	Estudo		Primeira reunião do grupo. 
-				Discutimos a divisão das tarefas. 
-				Aprofundei o estudo do arcabouço.
+12/04	6.5	      Estudo	               Primeira reunião do grupo. 
+				               Discutimos a divisão das tarefas. 
+				               Aprofundei o estudo do arcabouço.
 						
-15/04	8	Estudo		Estudei detalhadamente os arquivos da pasta "Lista" do arcabouço
+15/04	8	      Estudo	               Estudei detalhadamente os arquivos
+                                               da pasta "Lista" do arcabouço
+
+30/04   4             Estudo                   Estudei como realizar o script dos módulos
+
+06/05   4        Codificar módulo              Desenvolvi os primeiros módulos de teste
+
+07/05   2     Redigir script de teste          Desenvolvi os primeiros scripts
+
+09/05   6        Codificar módulo              Desenvolvi os módulos de teste restante
+
+10/05   3     Redigir script de teste          Desenvolvi os scripts faltantes
+
+10/05   7  Diagnosticar problemas encontrados  Com os testes, apareceram problemas que
+                                               precisaram ser resolvidos.
