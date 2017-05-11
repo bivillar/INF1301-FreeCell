@@ -1,0 +1,85 @@
+Trabalho 2
+
+INF1301
+
+Disciplina: Programação Modular
+
+Professor: Alessandro Garcia
+
+Nome: André Mello Alves
+      Bianca Villar
+
+Matrícula: 1511032
+           1510321
+
+Contato: andre.g.melloalves@gmail.com
+         bianca.villar@dbsoft.com.br
+
+Período: 2017.1
+
+Especificação de Requisitos - FreeCell
+
+
+Requisitos funcionais
+
+———— Mesa:
+
+   1. A mesa é dividida em três partes: final, auxiliar e final.
+   2. A parte final é formada por 4 espaços, cada um destinado a um naipe do baralho,
+que deve ser ordenado crescentemente de A a K.
+   3. A parte auxiliar é também formada por 4 espaços e cada um armazena apenas uma
+carta qualquer.
+   4. A parte principal é formada por 8 espaços que podem armazenar um número ilimitado
+de cartas em cada um, formando colunas.
+
+———— Carta:
+
+   1. Usa-se todas as cartas de um baralho convencional exceto coringas, totalizando 52
+cartas.
+   2. Um baralho convencional é dividido em 4 partes (naipes), sendo eles nomeados: ouros,
+copas, espadas e paus.
+   3. Os naipes ouros e copas possuem cor vermelha, diferenciando-os dos naipes espadas e
+paus, que são pretos.
+   4. A sequência de cartas que compõe cada naipe cresce de A a K. (A,2,3,4,5,6,7,8,9,10,J
+Q,K)
+
+———— Partida:
+
+   1. A partida se inicia com as partes final e auxiliar vazias.
+   2. Todas as cartas estão aleatoriamente e uniformemente distribuídas nos 8 espaços da
+parte principal da mesa, de forma que 4 colunas fiquem com 7 cartas e 4 fiquem com 6.
+   3. O objetivo do jogo é movimentar todas as cartas das partes principal e auxiliar
+para a parte final.
+   4. A partida acaba quando o objetivo (vitória) é alcançado ou quando não há mais
+movimentos possíveis (derrota).
+
+———— Movimentos:
+
+   1. O jogador pode mover de uma só vez um número de cartas equivalente ao número de
+espaços vazios +1 tanto na parte principal quanto na parte auxiliar, apenas se as
+cartas a serem movidas estiverem em ordem decrescente de valor.
+   2. As cartas podem ser movidas para 3 posições diferentes: um espaço vazio da parte
+auxiliar, uma sequência da parte principal da mesa ou para uma sequência ordenada da
+parte final da mesa.
+   3. A carta só pode ser movida para a parte final se ela for um A e o espaço estiver
+vazio, ou se o espaço estiver ocupado por outra carta e ela for exatamente a próxima da
+sequência.
+   4. A carta só pode ser movida para a parte principal da mesa se houver um espaço
+livre (coluna desocupada), ou se a última carta da coluna for exatamente a anterior na
+sequência, e a cor for intercalada.
+
+———— Jogador:
+
+   1. Há apenas um jogador por partida.
+
+Requisitos não-funcionais
+
+1. O jogo não possui a opção de salvamento. (persistência)
+2. O jogo não possui a opção de desfazer movimento.
+3. O jogo não possui a opção de dicas para o jogador.
+4. O jogo não alerta o jogador quando não há mais movimentos possíveis.
+5. O jogo não realiza movimentos de cartas pelo jogador.
+6. Se o jogador fizer um movimento inválido, o programa desconsiderará o movimento e
+exibirá um aviso. (robustez)
+7. Se o jogador apertar uma tecla que não está associada a nenhuma função do jogo, o
+programa exibirá uma mensagem de erro. (robustez)
